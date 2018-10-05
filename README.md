@@ -28,6 +28,7 @@ This is the full documentation of **all commands**, to see a shorter version jus
 | `~bumpset desc` | Sets description| your description|
 | `~bumpset invite` | Set invite link| your invite link | 
 | `~server` | View information on a server | *No Parameters* |
+|`~stats`  | Display Bot Stats | *No Parameters* |
 | `~ping` | Get Bot latency |*No Parameters* |
 | `~invite` | Shows links to add bot and our support server | *No Parameters* |
 | `~help` | Shows help command | *No Parameters* | 
