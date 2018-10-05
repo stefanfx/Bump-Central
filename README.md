@@ -1,4 +1,5 @@
-# Introduction 
+# Bump Central Documentation 
+## Introduction 
 
 [![Invite me!](https://img.shields.io/badge/Discord-Invite%20Me-6b80c2.svg)](https://discordapp.com/api/oauth2/authorize?client_id=478290034773196810&permissions=1141238983&scope=bot) [![Discord](https://img.shields.io/discord/354296784694018048.svg)](https://discord.gg/uVBbvmv) 
 
