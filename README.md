@@ -1,7 +1,7 @@
 # Bump Central Documentation 
 ## Introduction 
 
-[![Invite me!](https://img.shields.io/badge/Discord-Invite%20Me-6b80c2.svg)](https://discordapp.com/api/oauth2/authorize?client_id=478290034773196810&permissions=347201&scope=bot) [![Discord](https://img.shields.io/discord/354296784694018048.svg)](https://discord.gg/uVBbvmv) 
+[![Invite me!](https://img.shields.io/badge/Discord-Invite%20Me-6b80c2.svg)](https://discordapp.com/api/oauth2/authorize?client_id=478290034773196810&permissions=347201&scope=bot) [![Discord](https://img.shields.io/discord/497689134463188993.svg)](https://discord.gg/uVBbvmv) 
 
 Welcome to the "Bump Central"  Documentation! **Bump Central** is here to help you **grow** your server by using its ___advertising commands___! Here you can find  information about **commands** and how to properly use the bot!
 [![Discord Bots](https://discordbots.org/api/widget/478290034773196810.svg)](https://discordbots.org/bot/478290034773196810)
