@@ -1,7 +1,7 @@
 # Introduction 
 [![Discord Bots](https://discordbots.org/api/widget/478290034773196810.svg)](https://discordbots.org/bot/478290034773196810)
 
-            [![Bots for Discord](https://botsfordiscord.com/api/bot/478290034773196810/widget)](https://botsfordiscord.com/bots/478290034773196810)
+[![Bots for Discord](https://botsfordiscord.com/api/bot/478290034773196810/widget)](https://botsfordiscord.com/bots/478290034773196810)
 
 
 <a href="https://discordbotlist.com/bots/478290034773196810"><img width="380" height="140" src="https://discordbotlist.com/bots/478290034773196810/widget" alt="Bump Central stats on Discord Bot List"></a>
